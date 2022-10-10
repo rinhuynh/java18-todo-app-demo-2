@@ -1,2 +1,1 @@
-# java18-todo-app-demo-2
-JAVA18-TODO-APP-DEMO
+VERSION : TODO-APP-1.0-SNAPSHOT
